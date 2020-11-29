@@ -3,8 +3,7 @@
 <!--
 **talktoaakash/talktoaakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-This is Akash. I am a math graduate from IIT Bombay. My interest lies in problem solving, happy to help and collaborate.
-You can reach out to be at talktoaakash31@gmail.com
+
 
 Here are some ideas to get you started:
 
@@ -17,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Akash. I am a math graduate from IIT Bombay. My interest lies in problem solving, happy to help and collaborate.
+You can reach out to be at talktoaakash31@gmail.com
