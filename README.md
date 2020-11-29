@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is Akash
+This is Akash. I am a math graduate from IIT Bombay. My interest lies in problem solving, happy to help and collaborate.
+You can reach out to be at talktoaakash31@gmail.com
