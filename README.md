@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 This is Akash. I am a math graduate from IIT Bombay. My interest lies in problem solving, happy to help and collaborate.
-You can reach out to be at verma.aakash3103@gmail.com
+You can reach out to me at verma.aakash3103@gmail.com
